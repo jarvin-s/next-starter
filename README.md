@@ -1,6 +1,6 @@
-# Next.js Starter Template
+# Next.js Boilerplate
 
-This is a simple Next.js starter template to help you get started with building your web applications, featuring Tailwind CSS, Prettier, and Prettier Tailwind CSS with the default font set to Inter Tight.
+This is a simple Next.js Boilerplate to help you get started with building your web applications, featuring Tailwind CSS, Prettier, and Prettier Tailwind CSS with the default font set to Inter Tight.
 
 ## Getting Started
 
